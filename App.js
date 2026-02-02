@@ -104,8 +104,8 @@ export default function App() {
           style={styles.container}
         >
           <View style={styles.headerSection}>
-            <Text style={styles.greeting}>Hello, {userName}! 👋</Text>
-            <Text style={styles.subGreeting}>What's on your mind today?</Text>
+            <Text style={styles.greeting}>Heyy, {userName}! 👋</Text>
+            <Text style={styles.subGreeting}>Let me decide </Text>
           </View>
 
           {chosen ? (
